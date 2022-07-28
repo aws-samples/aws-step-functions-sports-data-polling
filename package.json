@@ -1,0 +1,29 @@
+{
+    "name": "pasific-science-center-lightning",
+    "description": "Pacific Science Center Lightning Project",
+    "version": "0.0.1",
+    "bin": {
+        "sample-cdk": "bin/cdk.js"
+    },
+    "scripts": {
+        "build": "tsc",
+        "watch": "tsc -w",
+        "test": "jest",
+        "cdk": "cdk"
+    },
+    "devDependencies": {
+        "@types/jest": "^26.0.10",
+        "@types/node": "10.17.27",
+        "aws-cdk": "2.10.0",
+        "jest": "^26.4.2",
+        "ts-jest": "^26.2.0",
+        "ts-node": "^9.0.0",
+        "typescript": "~3.9.7"
+    },
+    "dependencies": {
+        "@aws-sdk/client-eventbridge": "^3.53.0",
+        "@aws-sdk/client-ssm": "^3.53.0",
+        "aws-cdk-lib": "2.10.0",
+        "constructs": "^10.0.0"
+    }
+}

@@ -1,0 +1,130 @@
+{
+  "sr:team:3675": {
+    "alias": "ANA",
+    "team": "Anaheim Ducks"
+  },
+  "sr:team:3698": {
+    "alias": "ARI",
+    "team": "Arizona Coyotes"
+  },
+  "sr:team:3677": {
+    "alias": "BOS",
+    "team": "Boston Bruins"
+  },
+  "sr:team:3678": {
+    "alias": "BUF",
+    "team": "Buffalo Sabres"
+  },
+  "sr:team:3680": {
+    "alias": "CAR",
+    "team": "Carolina Hurricanes"
+  },
+  "sr:team:3683": {
+    "alias": "CBJ",
+    "team": "Columbus Blue Jackets"
+  },
+  "sr:team:3679": {
+    "alias": "CGY",
+    "team": "Calgary Flames"
+  },
+  "sr:team:3681": {
+    "alias": "CHI",
+    "team": "Chicago Blackhawks"
+  },
+  "sr:team:3682": {
+    "alias": "COL",
+    "team": "Colorado Avalanche"
+  },
+  "sr:team:3684": {
+    "alias": "DAL",
+    "team": "Dallas Stars"
+  },
+  "sr:team:3685": {
+    "alias": "DET",
+    "team": "Detroit Red Wings"
+  },
+  "sr:team:3686": {
+    "alias": "EDM",
+    "team": "Edmonton Oilers"
+  },
+  "sr:team:3687": {
+    "alias": "FLA",
+    "team": "Florida Panthers"
+  },
+  "sr:team:3688": {
+    "alias": "LA",
+    "team": "Los Angeles Kings"
+  },
+  "sr:team:3689": {
+    "alias": "MIN",
+    "team": "Minnesota Wild"
+  },
+  "sr:team:3690": {
+    "alias": "MTL",
+    "team": "Montreal Canadiens"
+  },
+  "sr:team:3704": {
+    "alias": "NJ",
+    "team": "New Jersey Devils"
+  },
+  "sr:team:3705": {
+    "alias": "NSH",
+    "team": "Nashville Predators"
+  },
+  "sr:team:3703": {
+    "alias": "NYI",
+    "team": "New York Islanders"
+  },
+  "sr:team:3701": {
+    "alias": "NYR",
+    "team": "New York Rangers"
+  },
+  "sr:team:3700": {
+    "alias": "OTT",
+    "team": "Ottawa Senators"
+  },
+  "sr:team:3699": {
+    "alias": "PHI",
+    "team": "Philadelphia Flyers"
+  },
+  "sr:team:3697": {
+    "alias": "PIT",
+    "team": "Pittsburgh Penguins"
+  },
+  "sr:team:794340": {
+    "alias": "SEA",
+    "team": "Seattle Kraken"
+  },
+  "sr:team:3696": {
+    "alias": "SJ",
+    "team": "San Jose Sharks"
+  },
+  "sr:team:3695": {
+    "alias": "STL",
+    "team": "St. Louis Blues"
+  },
+  "sr:team:3694": {
+    "alias": "TB",
+    "team": "Tampa Bay Lightning"
+  },
+  "sr:team:3693": {
+    "alias": "TOR",
+    "team": "Toronto Maple Leafs"
+  },
+  "sr:team:3692": {
+    "alias": "VAN",
+    "team": "Vancouver Canucks"
+  },
+  "sr:team:344158": {
+    "alias": "VGK",
+    "team": "Vegas Golden Knights"
+  },
+  "sr:team:3691": {
+    "alias": "WSH",
+    "team": "Washington Capitals"
+  },
+  "sr:team:3676": {
+    "alias": "WPG",
+    "team": "Winnipeg Jets"
+  }
+}
